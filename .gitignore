@@ -1,0 +1,14 @@
+*.vcxproj
+*.filters
+*.tlog
+*.idb
+*.sln
+*.sdf
+*.a
+*.supp
+*.sh
+*.txt
+*.tree
+*.opensdf
+*.zip
+*.jar
